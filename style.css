@@ -1,0 +1,23 @@
+/*
+Theme Name: Bare Minimum
+Author: David Greenwald
+Author URI: https://www.davidgreenwald.com
+Description: A minimum viable product WordPress starter theme with no styles and strictly basic functionality.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+The goal of this theme is to serve as an educational project to see what it
+takes to get started on WordPress theme building.
+*/
+
+/**
+ * For the absolute bare minimum, WordPress can install a theme with a single
+ * "Theme Name" comment header. A header must be provided before CSS begins.
+ *
+ * Above, this stylesheet has the practical minimum for non-Theme Directory use.
+ *
+ * I suggest getting started on your CSS with my reset/normalization stylesheet,
+ * Setup.
+ * https://github.com/davidegreenwald/css-setup
+ */
